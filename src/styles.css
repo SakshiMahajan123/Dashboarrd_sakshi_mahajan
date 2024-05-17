@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+}
+
+.dashboard-container {
+    padding: 20px;
+}
+
+.date-picker {
+    margin-bottom: 20px;
+}
+
+mat-card {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+mat-grid-tile {
+    padding: 10px;
+}
